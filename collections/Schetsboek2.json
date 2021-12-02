@@ -1,0 +1,14 @@
+---
+---
+{
+    "label": "Schetsboek2",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://vdpkarin.github.io/minne1982/annotations/annotation11.json'></iiif-storyboard>",
+            "title": "annotation11",
+            "description": "",
+            "thumbnail": ""
+        }
+    ]
+}
