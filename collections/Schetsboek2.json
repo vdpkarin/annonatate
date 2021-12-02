@@ -12,7 +12,7 @@
         },
         {
             "board": "<iiif-storyboard annotationurl='https://vdpkarin.github.io/minne1982/annotations/annotation12.json'></iiif-storyboard>",
-            "title": "",
+            "title": "annotation12",
             "description": "",
             "thumbnail": ""
         }
