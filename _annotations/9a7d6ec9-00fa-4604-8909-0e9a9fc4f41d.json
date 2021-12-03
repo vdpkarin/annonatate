@@ -1,0 +1,30 @@
+---
+canvas: "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "De tekeningen in dit schetsboek zijn vaak vrij realistische studies van naakte jongelingen, getekend naar levend model. In \u00e9\u00e9n tekening herkennen we de\u00a0<a href=\"https://www.mskgent.be/nl/collectiestuk/geknielde-man-en-vrouw\">Geknielde man en vrouw</a>",
+            "purpose": "linking",
+            "creator": {
+                "id": "vdpkarin",
+                "name": "vdpkarin"
+            },
+            "created": "2021-12-03T11:26:48.074Z",
+            "modified": "2021-12-03T11:30:31.747Z"
+        }
+    ],
+    "target": {
+        "source": "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:198.2402801513672,228.57870483398438,1242.0154571533203,630.9717102050781"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "9a7d6ec9-00fa-4604-8909-0e9a9fc4f41d.json"
+}
