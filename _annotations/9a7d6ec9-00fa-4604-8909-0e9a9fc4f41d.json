@@ -15,16 +15,26 @@ order: 1
             "purpose": "linking",
             "type": "TextualBody",
             "value": "De tekeningen in dit schetsboek zijn vaak vrij realistische studies van naakte jongelingen, getekend naar levend model. In \u00e9\u00e9n tekening herkennen we de\u00a0<a href=\"https://www.mskgent.be/nl/collectiestuk/geknielde-man-en-vrouw\">Geknielde man en vrouw</a>"
+        },
+        {
+            "type": "TextualBody",
+            "value": "Geknielde man en vrouw",
+            "purpose": "tagging",
+            "creator": {
+                "id": "vdpkarin",
+                "name": "vdpkarin"
+            },
+            "created": "2021-12-03T11:38:28.150Z"
         }
     ],
     "id": "9a7d6ec9-00fa-4604-8909-0e9a9fc4f41d.json",
     "target": {
+        "source": "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006/info.json",
         "selector": {
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
             "type": "FragmentSelector",
-            "value": "xywh=pixel:198.2402801513672,228.57870483398438,1242.0154571533203,630.9717102050781"
-        },
-        "source": "https://vdpkarin.github.io/minne1982/images/20110117_minne_1982_I_2011_0006/info.json"
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:196.814208984375,219.3616485595703,1203.7630615234375,632.8843231201172"
+        }
     },
     "type": "Annotation"
 }
