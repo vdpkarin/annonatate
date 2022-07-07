@@ -3,42 +3,42 @@ canvas: "https://imagehub.dev.vlaamsekunstcollectie.be/iiif//canvas/11.json"
 order: 1
 ---
 {
-    "type": "Annotation",
+    "@context": "http://www.w3.org/ns/anno.jsonld",
     "body": [
         {
-            "type": "TextualBody",
-            "value": "<p>De tekeningen in dit schetsboek zijn vaak vrij realistische studies van naakte jongelingen, getekend naar levend model. In \u00e9\u00e9n tekening herkennen we de&nbsp;<a href=\\\"https://www.mskgent.be/nl/collectiestuk/geknielde-man-en-vrouw\\\" target=\\\"_blank\\\" style=\\\"color: rgb(16, 80, 187);\\\"><strong><em>Geknielde man en vrouw</em></strong></a>.</p>",
-            "purpose": "commenting",
+            "created": "2022-07-07T17:10:00.727Z",
             "creator": {
                 "id": "vdpkarin",
                 "name": "vdpkarin"
             },
-            "created": "2022-07-07T17:10:00.727Z"
+            "purpose": "commenting",
+            "type": "TextualBody",
+            "value": "<p>De tekeningen in dit schetsboek zijn vaak vrij realistische studies van naakte jongelingen, getekend naar levend model. In \u00e9\u00e9n tekening herkennen we de&nbsp;<a href=\\\"https://www.mskgent.be/nl/collectiestuk/geknielde-man-en-vrouw\\\" target=\\\"_blank\\\" style=\\\"color: rgb(16, 80, 187);\\\"><strong><em>Geknielde man en vrouw</em></strong></a>.</p>"
         },
         {
-            "type": "TextualBody",
-            "purpose": "tagging",
-            "value": "Geknielde man en vrouw",
+            "created": "2022-07-07T17:10:25.904Z",
             "creator": {
                 "id": "vdpkarin",
                 "name": "vdpkarin"
             },
-            "created": "2022-07-07T17:10:25.904Z"
+            "purpose": "tagging",
+            "type": "TextualBody",
+            "value": "Geknielde man en vrouw"
         }
     ],
+    "id": "cd08e83f-7e61-4150-96fe-d6174d4504f6.json",
+    "motivation": "commenting",
     "target": {
-        "source": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif//canvas/11.json",
-        "selector": {
-            "type": "FragmentSelector",
-            "conformsTo": "http://www.w3.org/TR/media-frags/",
-            "value": "xywh=170.12583923339844,150.469970703125,1274.5067291259766,757.6221313476562"
-        },
         "dcterms:isPartOf": {
             "id": "https://vdpkarin.github.io/minne1982/manifests/manifestm2a.json",
             "type": "Manifest"
-        }
+        },
+        "selector": {
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "type": "FragmentSelector",
+            "value": "xywh=170.12583923339844,150.469970703125,1274.5067291259766,757.6221313476562"
+        },
+        "source": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif//canvas/11.json"
     },
-    "@context": "http://www.w3.org/ns/anno.jsonld",
-    "id": "cd08e83f-7e61-4150-96fe-d6174d4504f6.json",
-    "motivation": "commenting"
+    "type": "Annotation"
 }
