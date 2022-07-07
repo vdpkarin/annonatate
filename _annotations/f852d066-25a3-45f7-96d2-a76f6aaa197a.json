@@ -7,7 +7,7 @@ order: 1
     "body": [
         {
             "type": "TextualBody",
-            "value": "<p class=\\\"p1\\\" style=\\\"margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; font-size: 12px; line-height: normal; font-family: Arial;\\\"><span class=\\\"s1\\\" style=\\\"font-kerning: none;\\\">Andere veeleer schetsmatige studies houden duidelijk verband met <a href=\\\"https://www.mskgent.be/nl/collectiestuk/de-fontein-der-geknielden\\\"><span class=\\\"s2\\\" style=\\\"font-kerning: none; color: #0e67c7;\\\"><strong><em>De fontein der geknielden</em></strong></span></a>. Hier staan de jongelingen echter wijdbeens in een cirkel bovenop een sokkel. Zowel de geknielde jongelingen als het waterbekken hebben pas geleidelijk een definitieve vorm gekregen.</span></p>",
+            "value": "<p>Andere veeleer schetsmatige studies houden duidelijk verband met <a href=\\\"https://www.mskgent.be/nl/collectiestuk/de-fontein-der-geknielden\\\"><span class=\\\"s2\\\" style=\\\"font-kerning: none; color: #0e67c7;\\\"><strong><em>De fontein der geknielden</em></strong></span></a>. Hier staan de jongelingen echter wijdbeens in een cirkel bovenop een sokkel. Zowel de geknielde jongelingen als het waterbekken hebben pas geleidelijk een definitieve vorm gekregen.</span></p>",
             "purpose": "commenting",
             "creator": {
                 "id": "vdpkarin",
