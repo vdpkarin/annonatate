@@ -1,0 +1,20 @@
+---
+---
+{
+    "label": "Schetsboek",
+    "type": "storyboardlist",
+    "items": [
+        {
+            "board": "<iiif-storyboard annotationurl='https://vdpkarin.github.io/annonatate/_annotations/3-11-list.json'></iiif-storyboard>",
+            "title": "annotation11",
+            "description": "",
+            "thumbnail": ""
+        },
+              {
+            "board": "<iiif-storyboard annotationurl='https://vdpkarin.github.io/annonatate/_annotations/3-12-list.json'></iiif-storyboard>",
+            "title": "annotation12",
+            "description": "",
+            "thumbnail": ""
+        }      
+    ]
+}
