@@ -1,0 +1,45 @@
+---
+canvas: "https://imagehub.dev.vlaamsekunstcollectie.be/iiif//canvas/11.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "De tekeningen in dit schetsboek zijn vaak vrij realistische studies van naakte jongelingen, getekend naar levend model. In \u00e9\u00e9n tekening herkennen we de&nbsp;<a href=\\\"https://www.mskgent.be/nl/collectiestuk/geknielde-man-en-vrouw\\\" target=\\\"_blank\\\" style=\\\"color: rgb(16, 80, 187);\\\">Geknielde man en vrouw</a>.\"",
+            "purpose": "commenting",
+            "creator": {
+                "id": "vdpkarin",
+                "name": "vdpkarin"
+            },
+            "created": "2022-07-12T10:47:28.063Z",
+            "modified": "2022-07-12T10:47:46.048Z"
+        },
+        {
+            "type": "TextualBody",
+            "purpose": "tagging",
+            "value": "Geknielde man en vrouw",
+            "creator": {
+                "id": "vdpkarin",
+                "name": "vdpkarin"
+            },
+            "created": "2022-07-12T10:48:03.140Z"
+        }
+    ],
+    "target": {
+        "source": "https://imagehub.dev.vlaamsekunstcollectie.be/iiif//canvas/11.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=174.808349609375,160.95912170410156,1277.8404541015625,752.1862030029297"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://vdpkarin.github.io/minne1982/manifests/manifestm2a.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f726e298-5c40-4253-83d7-7775be0c4dea.json",
+    "motivation": "commenting"
+}
